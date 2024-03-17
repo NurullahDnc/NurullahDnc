@@ -1,4 +1,3 @@
-# 💫 About Me:
 Nurullah Dinç || Ordu<br>Frontend Developer || React - Next.js
 
 
